@@ -10,12 +10,12 @@ A personal photography blog built with Django, designed to showcase a collection
 - Read Later section for users to save posts for future viewing.
 
 ## Prerequisites
--asgiref==3.8.1
--Django==5.2
--gunicorn==23.0.0
--packaging==24.2
--psycopg2-binary==2.9.10
--sqlparse==0.5.3
+- asgiref==3.8.1
+- Django==5.2
+- gunicorn==23.0.0
+- packaging==24.2
+- psycopg2-binary==2.9.10
+- sqlparse==0.5.3
 
 ## Administration
 Create a superuser to access the admin panel using the following command:
@@ -31,7 +31,7 @@ The Photography-Blog application provides the following features, accessible via
 - Admin Panel: Go to http://localhost:8000/admin to access admin panel in order to manage posts, comments, tags and users at /admin (requires superuser login).
 
 ## Technologies
-Django (Backend framework)
-Python (Core language)
-PostgreSQL (Database)
-HTML/CSS (Frontend)
+- Django (Backend framework)
+- Python (Core language)
+- PostgreSQL (Database)
+- HTML/CSS (Frontend)
